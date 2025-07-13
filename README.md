@@ -1,6 +1,5 @@
 # Pygame Chess
 
-![Chess Screenshot](assets/screenshots/gameplay1.png)
 
 A complete chess game implementation using Pygame with:
 - Piece movement validation
